@@ -21,4 +21,5 @@ In this "first Basic analysis with python" repositories, I only show the basic p
 ⚽ FIND TOP 5 BEST PLAYER IN 4 POSITION ST(striker plug (TIEN DAO)), CDM(midfielder (TIEN VE)), CB(defender (HAU VE)), GK(goalkeeper (THU MON)).
 
 ## 🔎  Analyst
-[Here]{"https://github.com/DooPhiLong/Basic-analysis-with-python-1/blob/main/Analyst%20football%20player.ipynb"}
+
+[Here]{https://github.com/DooPhiLong/Basic-analysis-with-python-1/blob/main/Analyst%20football%20player.ipynb}
