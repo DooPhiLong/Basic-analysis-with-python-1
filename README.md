@@ -22,4 +22,4 @@ In this "first Basic analysis with python" repositories, I only show the basic p
 
 ## 🔎  Analyst
 
-[Here](https://github.com/DooPhiLong/Basic-analysis-with-python-1/blob/main/Analyst%20football%20player.ipynb)
+[Click here and wait a few seconds](https://github.com/DooPhiLong/Basic-analysis-with-python-1/blob/main/Analyst%20football%20player.ipynb)
